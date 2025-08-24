@@ -1,2 +1,1 @@
-# SentimentAnalysis
-Professional SentimentAnalysis system with SentimentAnalysis-optimized scalable-architecture and enterprise sentimentanalysis-optimization capabilities
+.
